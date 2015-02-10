@@ -1,6 +1,6 @@
 {
   "name": "hubot-elb",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A Hubot script to manage the Elastic Load Balancing",
   "main": "index.js",
   "scripts": {
